@@ -1,13 +1,15 @@
 # Divyanshu_Programmer
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://divyanshutiw.io)
+
 <h1 align="center">Hi 👋, I'm Divyanshu Tiwari</h1>
 <h3 align="center">A passionate developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=642A5EA01B57304D7C4E72902D3FA0A2270B41F8&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&exph=600&expw=800&q=gif+coding&simid=608052642412303240&FORM=IRPRST&ck=81CABFF855597FE1A42A4C2B21AB3601&selectedIndex=22"
+
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu" alt="divyanshu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@divyans" target="blank"><img src="https://img.shields.io/twitter/follow/@divyans?logo=twitter&style=for-the-badge" alt="@divyans" /></a> </p>
-
 - 🔭 I’m currently working on [Webxt](None)
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS**
